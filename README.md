@@ -1,4 +1,4 @@
-### Hi there! I'm Pallav 👋 | Bonjour! Je suis Pallav 👋
+### Hi there! I'm Pallav 👋 | Bonjour! Je m'apelle Pallav 👋
 
 ### About me 🚀 🙋‍♂️
 - 🌱 I am a Masters Student in [Data Sciences and Business Analytics](https://www.linkedin.com/school/essec-centralesupelec-master-data-sciences-business-analytics/?originalSubdomain=fr) at [Essec Business School](https://www.essec.edu/en/program/mscs/master-data-sciences-business-analytics/) & [CentraleSupélec (CentraleSupélec - Université Paris-Saclay)](https://www.centralesupelec.fr/en/master-data-sciences-business-analytics-dsba) 🇫🇷
