@@ -2,7 +2,7 @@
 
 ### About me 🚀 🙋‍♂️
 - 🌱 I am a Masters Student in [Data Sciences and Business Analytics](https://www.linkedin.com/school/essec-centralesupelec-master-data-sciences-business-analytics/?originalSubdomain=fr) at [Essec Business School](https://www.essec.edu/en/program/mscs/master-data-sciences-business-analytics/) & [CentraleSupélec (CentraleSupélec - Université Paris-Saclay)](https://www.centralesupelec.fr/en/master-data-sciences-business-analytics-dsba) 🇫🇷
-- 🔭 I’m looking for opportunities as Data Scientist starting July 2023 onwards
+- 🔭 I’m looking for full-time opportunities as Data Scientist starting January 2024 onwards
 - 😄 Pronouns: He/Him
 - 📜 BTech. from [Indian Institute of Technology, India](https://www.iitbhu.ac.in/dept/mec)
 - 🏠 Lives in Paris (🇫🇷), From Bhilai (🇮🇳)
